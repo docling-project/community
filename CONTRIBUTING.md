@@ -1,4 +1,6 @@
-## Contributing In General
+# Contribution guidelines
+
+## Contributing in General
 
 Our project welcomes external contributions. If you have an itch, please feel
 free to scratch it.
@@ -29,11 +31,9 @@ pull request so it can be tracked.
 
 ### Merge approval
 
-The project maintainers use LGTM (Looks Good To Me) in comments on the code
-review to indicate acceptance. A change requires LGTMs from two of the
-maintainers of each component affected.
-
-Each repository maintains a list of maintainers in the `MAINTAINERS.md` page.
+A pull request can be reviewed by any [committer](./GOVERNANCE.md#committer), but only
+a [maintainer](./GOVERNANCE.md#maintainer) of the respective repository can merge it to
+the main branch.
 
 ### Quick execution
 
