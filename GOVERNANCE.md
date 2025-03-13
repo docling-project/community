@@ -18,7 +18,7 @@ The contributor role is the starting role for anyone participating in the projec
 
 The Committers role enables the contributor to commit code directly to the repository, but also comes with the responsibility of being a responsible leader in the community.
 
-Currently Committers of Docling are (in alphabetic order): [TODO: SORT AND ADD GH HANDLE] Cesar Berrospi Ramis, Kasper Dinkla, Yusik Kim, Matteo Omenetti, Maxim Lysak, Ahmed Nassar, Nikos Livathinos, Rafael Teixeira de Lima, Viktor Kuropiatnyk, Anil Vishnoi.
+Currently Committers of Docling are (in alphabetic order): [Cesar Berrospi Ramis](https://github.com/ceberam), [Kasper Dinkla](https://github.com/kdinkla), [Yusik Kim](https://github.com/kmyusk), [Nikos Livathinos](https://github.com/nikos-livathinos), [Maxim Lysak](https://github.com/maxmnemonic), [Ahmed Nassar](https://github.com/nassarofficial), [Matteo Omenetti](https://github.com/Matteo-Omenetti), [Rafael Teixeira de Lima](https://github.com/rateixei), [Viktor Kuropiatnyk](https://github.com/vku-ibm), [Anil Vishnoi](https://github.com/vishnoianil).
 
 
 ### Process for becoming a committers
@@ -38,7 +38,7 @@ Currently [Peter Staar](https://github.com/PeterStaar-IBM) is the chairperson of
 
 ### Process for becoming a TSC member
 
-At the moment, the TSC is not open for new members. This is expected to change in the medium-term.
+At the moment, the TSC is not open for new members. This is expected to change after the first 24 months.
 
 # Release Process
 
