@@ -35,6 +35,13 @@ maintainers of each component affected.
 
 Each repository maintains a list of maintainers in the `MAINTAINERS.md` page.
 
+### Quick execution
+
+The governance team favours quick iterations and execution. Contributors and committers are
+encouraged to provide quick and effective feedback for finalizing the contributions.
+
+Stale contributions will be flagged and eventually closed.
+
 ## Legal
 
 Each source file must include a license header for the MIT
