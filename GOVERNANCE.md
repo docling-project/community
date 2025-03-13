@@ -48,7 +48,7 @@ A committer can be nominated for becoming maintainer of a given repository by an
 
 ### TSC member
 
-The *Techincal Steering Commite (TSC) members* are committers who have additional responsibilities to ensure the smooth running of the project. TSC members are expected to participate in strategic planning, and approve changes to the governance model. The purpose of the TSC is to ensure a smooth progress from the big-picture perspective.
+The *Techincal Steering Committee (TSC) members* are committers who have additional responsibilities to ensure the smooth running of the project. TSC members are expected to participate in strategic planning, and approve changes to the governance model. The purpose of the TSC is to ensure a smooth progress from the big-picture perspective.
 
 Current TSC members (in alphabetic order): [Christoph Auer](https://github.com/cau-git), [Michele Dolfi](https://github.com/dolfim-ibm), [Peter Staar](https://github.com/PeterStaar-IBM), [Panos Vagenas](https://github.com/vagenas).
 
