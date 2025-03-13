@@ -2,7 +2,7 @@
 
 Welcome to the Docling community!
 
-This is the starting point for becoming a contributor - improving code, improving docs, giving talks, etc.
+This is the starting point for becoming a contributor - improving code, extending docs, giving talks, etc.
 
 - [Introduction](#introduction)
 - [Docling authors](#docling-authors)
@@ -12,7 +12,7 @@ This is the starting point for becoming a contributor - improving code, improvin
 
 ## Introduction
 
-The mission of Docling is mplify document processing, to parse diverse formats — including advanced PDF understanding — and to help provide seamless integrations with the gen AI ecosystem.
+The mission of Docling is to simplify document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.
 It is hosted as [incubation project](https://lfaidata.foundation/projects/) in [LF AI & Data Foundation](https://lfaidata.foundation/).
 
 ## Docling authors
@@ -21,10 +21,9 @@ by the AI for Knowledge team in the IBM Research Europe - Zurich lab.
 
 ## Governance
 
-The governance of the project is describe in the [GOVERNANCE.md](./GOVERNANCE.md) file.
+The governance of the project is described in the [GOVERNANCE.md](./GOVERNANCE.md) file.
 
-The Steering Commmittee meets regularly. You can find the meeting notes in [meeting-notes](./steering-commitee/meeting-notes/).
-
+The Steering Committee meets regularly. You can find the meeting notes in [meeting-notes](./steering-commitee/meeting-notes/).
 
 ## How can I help ?
 
@@ -32,7 +31,8 @@ To get involved in our community you can ask questions, be a part of the convers
 Docling is an open source project that is driven by the participation of users and contributors. Join in!
 
 ### Become a contributor
-1. Familiar youself with the [Docling contribution guideline](CONTRIBUTING.md).
+
+1. Familiar youself with the [Docling contribution guidelines](CONTRIBUTING.md).
 2. The [Docling developer guideline](https://github.com/DS4SD/docling/blob/main/CONTRIBUTING.md#developing) is the starting point for contributors to make code or doc contributions.
 
 If you're looking for something to do to get your feet wet working on Docling, look for GitHub issues
