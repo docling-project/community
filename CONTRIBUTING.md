@@ -33,7 +33,7 @@ The project maintainers use LGTM (Looks Good To Me) in comments on the code
 review to indicate acceptance. A change requires LGTMs from two of the
 maintainers of each component affected.
 
-For a list of the maintainers, see the [MAINTAINERS.md](MAINTAINERS.md) page.
+Each repository maintains a list of maintainers in the `MAINTAINERS.md` page.
 
 ## Legal
 
@@ -41,12 +41,9 @@ Each source file must include a license header for the MIT
 Software. Using the SPDX format is the simplest approach.
 e.g.
 
-```text
-/*
-Copyright IBM Inc. All rights reserved.
-
-SPDX-License-Identifier: MIT
-*/
+```py
+# Copyright © Docling a Series of LF Projects, LLC
+# For web site terms of use, trademark policy and other project policies please see https://lfprojects.org.
 ```
 
 We have tried to make it as easy as possible to make contributions. This
@@ -73,4 +70,4 @@ git commit -s
 
 ## Communication
 
-Please feel free to connect with us using the [discussion section](https://github.com/DS4SD/docling/discussions).
+Please feel free to connect with us using the [discussion section](https://github.com/DS4SD/docling/discussions) of the main Docling repository.
