@@ -34,8 +34,8 @@ Current committers (in alphabetical order):
 - [Matteo Omenetti](https://github.com/Matteo-Omenetti)
 - [Peter Staar](https://github.com/PeterStaar-IBM)
 - [Rafael Teixeira de Lima](https://github.com/rateixei)
-- [Anil Vishnoi](https://github.com/vishnoianil)
 - [Panos Vagenas](https://github.com/vagenas)
+- [Anil Vishnoi](https://github.com/vishnoianil)
 
 #### Process for becoming a committer
 
