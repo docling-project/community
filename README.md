@@ -4,12 +4,6 @@ Welcome to the Docling community!
 
 This is the starting point for becoming a contributor - improving code, extending docs, giving talks, etc.
 
-- [Introduction](#introduction)
-- [Docling authors](#docling-authors)
-- [Governance](#governance)
-- [How can I help?](#how-can-i-help-)
-- [Questions and issues](#questions-and-issues)
-
 ## Introduction
 
 The mission of Docling is to simplify document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.

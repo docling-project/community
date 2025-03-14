@@ -20,18 +20,22 @@ The *contributor* role is the starting role for anyone participating in the proj
 
 A *committer* is a contributor who has the additional privilege to commit code directly to the repository, but also the duty of being a responsible leader in the community.
 
-Current committers (in alphabetic order):
+Current committers (in alphabetical order):
 
+- [Christoph Auer](https://github.com/cau-git)
 - [Cesar Berrospi Ramis](https://github.com/ceberam)
 - [Kasper Dinkla](https://github.com/kdinkla)
+- [Michele Dolfi](https://github.com/dolfim-ibm)
 - [Yusik Kim](https://github.com/kmyusk)
+- [Viktor Kuropiatnyk](https://github.com/vku-ibm)
 - [Nikos Livathinos](https://github.com/nikos-livathinos)
 - [Maxim Lysak](https://github.com/maxmnemonic)
 - [Ahmed Nassar](https://github.com/nassarofficial)
 - [Matteo Omenetti](https://github.com/Matteo-Omenetti)
+- [Peter Staar](https://github.com/PeterStaar-IBM)
 - [Rafael Teixeira de Lima](https://github.com/rateixei)
-- [Viktor Kuropiatnyk](https://github.com/vku-ibm)
 - [Anil Vishnoi](https://github.com/vishnoianil)
+- [Panos Vagenas](https://github.com/vagenas)
 
 #### Process for becoming a committer
 
@@ -51,7 +55,7 @@ A committer can be nominated for becoming maintainer of a given repository by an
 
 The *Techincal Steering Committee (TSC) members* are committers who have additional responsibilities to ensure the smooth running of the project. TSC members are expected to participate in strategic planning, and approve changes to the governance model. The purpose of the TSC is to ensure a smooth progress from the big-picture perspective.
 
-Current TSC members (in alphabetic order):
+Current TSC members (in alphabetical order):
 
 - [Christoph Auer](https://github.com/cau-git)
 - [Michele Dolfi](https://github.com/dolfim-ibm)
