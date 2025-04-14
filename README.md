@@ -19,6 +19,10 @@ The governance of the project is described in the [GOVERNANCE.md](./GOVERNANCE.m
 
 The Steering Committee meets regularly. You can find the meeting notes in [meeting-notes](./steering-commitee/meeting-notes/).
 
+## Roadmap
+
+The technical steering committee is regularly updating the overall [Docling roadmap](./docs/roadmap.md).
+
 ## How can I help ?
 
 To get involved in our community you can ask questions, be a part of the conversation, or contribute to Docling's growth.
