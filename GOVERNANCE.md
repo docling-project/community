@@ -84,9 +84,9 @@ This project, just like all open source, is a global community. In addition to t
 
 If you have concerns about communication challenges for this project, please contact the committers.
 
-## Satellite Projects
+## Satellite projects
 
-Satellite projects are endorsed projects by the Docling team and provide additional capabilities and/or features to Docling.
+*Satellite projects* are projects endorsed by the Docling team and provide additional capabilities and/or features to Docling.
 
 ### Procedure to become a satellite project
 
@@ -106,10 +106,10 @@ To become a satellite project of Docling, you need to follow these steps.
 4. The Linux Foundation for AI & Data TAC will then decide and vote on the request
 5. Move the open-source repository into Docling project GitHub organization and all related artifacts (eg AI models) are moved to the Docling HuggingFace page
 
-### Governance of Satellite projects
+### Governance of satellite projects
 
-The advantage of satellite projects is that they can benefit from the Docling community and have greater autonomy, i.e. have their own dedicated Maintainer and Committer lists. Nevertheless, satellite projects must fullfill the following requirements,
+The advantage of satellite projects is that they can benefit from the Docling community and have greater autonomy, i.e. have their own dedicated Maintainer and Committer lists. Nevertheless, satellite projects must fulfill the following requirements,
 
-1. Docling project MAINTAINERS and COMMITTERS keep their role also in Satellite projects
+1. Docling project COMMITTERS and MAINTAINERS of the "docling" repo keep their role also in Satellite projects
 2. Election of Satellite MAINTAINERS: by the TSC of Docling
-3. Election of Satellite COMMITTERS: Satellite MAINTAINERS + 1 (at least) member of TSC
+3. Election of Satellite COMMITTERS: by the Satellite MAINTAINERS + 1 (at least) member of TSC
