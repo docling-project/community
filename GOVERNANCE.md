@@ -98,12 +98,13 @@ To become a satellite project of Docling, you need to follow these steps.
     - Ensure you have proper CI/CD
     - Ensure all dependencies have proper permissive licenses
     - Follow the [OpenSSF](https://www.bestpractices.dev/en) best practices badge: minimum requirement is to have silver badge
-3. Hand over the ownership to the Linux Foundation for AI & Data with the help the TSC members of Docling. The minimum information we need for that is,
+3. Donate the project to the Linux Foundation for AI & Data with the help the TSC members of Docling. The minimum information we need for that is,
     - Name, license and repository URL
-    - A brief mission statement of that project    
+    - A brief mission statement of that project
     - The logo (if there is one)
     - The website (if there is one)
-4. Move open source repository into Docling project and all related artifacts (eg AI models) are moved to the Docling HuggingFace page
+4. The Linux Foundation for AI & Data TAC will then decide and vote on the request
+5. Move the open-source repository into Docling project GitHub organization and all related artifacts (eg AI models) are moved to the Docling HuggingFace page
 
 ### Governance of Satellite projects
 
