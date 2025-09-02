@@ -83,3 +83,32 @@ This project, just like all open source, is a global community. In addition to t
 * Ensure tools are able to be used by community members regardless of their region.
 
 If you have concerns about communication challenges for this project, please contact the committers.
+
+## Sattelite Projects
+
+Sattelite projects are endorsed projects by the Docling team and provide additional capabilities and/or features to Docling.
+
+### Procedure to become a sattelite project
+
+To become a sattelite project of Docling, you need to follow these steps.
+
+1. Your project has to be open-source repository with a permissive license (eg MIT or Apache-v2)
+2. Reach out to the TSC members of Docling to register and review the code. The review will include (but is not limited to)
+    - Ensure you have proper Linting
+    - Ensure you have proper CI/CD
+    - Ensure all dependencies have proper permissive licenses
+    - Follow the [OpenSSF](https://www.bestpractices.dev/en) best practices badge: minimum requirement is to have silver badge
+3. Hand over the ownership to the Linux Foundation for AI & Data with the help the TSC members of Docling. The minimum information we need for that is,
+    - Name, license and repository URL
+    - A brief mission statement of that project    
+    - The logo (if there is one)
+    - The website (if there is one)
+4. Move open source repository into Docling project and all related artifacts (eg AI models) are moved to the Docling HuggingFace page
+
+### Governance of Sattelite projects
+
+The advantage of sattelite projects is that they can benefit from the Docling community and have greater autonomy, i.e. have their own dedicated Maintainer and Committer lists. Nevertheless, sattelite projects must fullfill the following requirements,
+
+1. Docling project MAINTAINERS and COMMITTERS keep their role also in Satellite projects
+2. Election of Satellite MAINTAINERS: by the TSC of Docling
+3. Election of Satellite COMMITTERS: Satellite MAINTAINERS + 1 (at least) member of TSC
