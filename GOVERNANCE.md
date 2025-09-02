@@ -84,13 +84,13 @@ This project, just like all open source, is a global community. In addition to t
 
 If you have concerns about communication challenges for this project, please contact the committers.
 
-## Sattelite Projects
+## Satellite Projects
 
-Sattelite projects are endorsed projects by the Docling team and provide additional capabilities and/or features to Docling.
+Satellite projects are endorsed projects by the Docling team and provide additional capabilities and/or features to Docling.
 
-### Procedure to become a sattelite project
+### Procedure to become a satellite project
 
-To become a sattelite project of Docling, you need to follow these steps.
+To become a satellite project of Docling, you need to follow these steps.
 
 1. Your project has to be open-source repository with a permissive license (eg MIT or Apache-v2)
 2. Reach out to the TSC members of Docling to register and review the code. The review will include (but is not limited to)
@@ -105,9 +105,9 @@ To become a sattelite project of Docling, you need to follow these steps.
     - The website (if there is one)
 4. Move open source repository into Docling project and all related artifacts (eg AI models) are moved to the Docling HuggingFace page
 
-### Governance of Sattelite projects
+### Governance of Satellite projects
 
-The advantage of sattelite projects is that they can benefit from the Docling community and have greater autonomy, i.e. have their own dedicated Maintainer and Committer lists. Nevertheless, sattelite projects must fullfill the following requirements,
+The advantage of satellite projects is that they can benefit from the Docling community and have greater autonomy, i.e. have their own dedicated Maintainer and Committer lists. Nevertheless, satellite projects must fullfill the following requirements,
 
 1. Docling project MAINTAINERS and COMMITTERS keep their role also in Satellite projects
 2. Election of Satellite MAINTAINERS: by the TSC of Docling
