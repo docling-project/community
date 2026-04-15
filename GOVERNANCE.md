@@ -26,6 +26,7 @@ Current committers (in alphabetical order):
 - [Cesar Berrospi Ramis](https://github.com/ceberam)
 - [Kasper Dinkla](https://github.com/kdinkla)
 - [Michele Dolfi](https://github.com/dolfim-ibm)
+- [Georg Heiler](https://github.com/geoheil)
 - [Yusik Kim](https://github.com/kmyusk)
 - [Viktor Kuropiatnyk](https://github.com/vku-ibm)
 - [Nikos Livathinos](https://github.com/nikos-livathinos)
