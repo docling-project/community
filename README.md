@@ -7,7 +7,7 @@ This is the starting point for becoming a contributor - improving code, extendin
 ## Introduction
 
 The mission of Docling is to simplify document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.
-It is hosted as [incubation project](https://lfaidata.foundation/projects/) in [LF AI & Data Foundation](https://lfaidata.foundation/).
+It is hosted as a [graduated project](https://lfaidata.foundation/projects/) in [LF AI & Data Foundation](https://lfaidata.foundation/).
 
 ## Docling authors
 Docling is an open source project with an active development community. The project was started
@@ -31,12 +31,12 @@ Docling is an open source project that is driven by the participation of users a
 ### Become a contributor
 
 1. Familiar youself with the [Docling contribution guidelines](CONTRIBUTING.md).
-2. The [Docling developer guideline](https://github.com/DS4SD/docling/blob/main/CONTRIBUTING.md#developing) is the starting point for contributors to make code or doc contributions.
+2. The [Docling developer guideline](https://github.com/docling-project/docling/blob/main/CONTRIBUTING.md#developing) is the starting point for contributors to make code or doc contributions.
 
 If you're looking for something to do to get your feet wet working on Docling, look for GitHub issues
 marked with the Help Wanted label:
 
-- [Primary Docling repo](https://github.com/DS4SD/docling/issues?q=is%3Aissue%20state%3Aopen%20)
+- [Primary Docling repo](https://github.com/docling-project/docling/issues?q=is%3Aissue%20state%3Aopen%20)
 
 Of course, even if there's not an issue opened for it, you can always do more
 testing throughout the platform. Similarly, you can always contribute more docs, richer docs,
@@ -44,4 +44,4 @@ insightful docs. Or maybe a cool blog post?
 
 ## Questions and issues
 
-Please feel free to connect with us using the [discussion section](https://github.com/DS4SD/docling/discussions) of the main Docling repository.
+Please feel free to connect with us using the [discussion section](https://github.com/docling-project/docling/discussions) of the main Docling repository.
