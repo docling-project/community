@@ -37,6 +37,7 @@ Current committers (in alphabetical order):
 - [Rafael Teixeira de Lima](https://github.com/rateixei)
 - [Panos Vagenas](https://github.com/vagenas)
 - [Anil Vishnoi](https://github.com/vishnoianil)
+- [Nguyen Hoang Duong](https://github.com/DanielNg0729)
 
 #### Process for becoming a committer
 
